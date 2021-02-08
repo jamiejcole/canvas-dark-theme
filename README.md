@@ -11,7 +11,7 @@ This extension is not available on the Chrome Web Store. But can be manually imp
 5. Reload Canvas.
 
 ## Contributions
-If you would like to help with this project and change any of the styles, feel free to. Any feedback is welcome.
+If you would like to help with this project and change any of the styles, feel free to. Any feedback is welcome. Issues or PRs are welcome.
 
 ## Additional Resources
 
