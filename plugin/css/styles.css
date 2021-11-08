@@ -99,3 +99,40 @@ div.ic-DashboardCard__header-term.ellipsis {
 .ic-Table.ic-Table--striped tbody tr:nth-child(odd) {
     background-color: #1f1f1f !important;
 }
+
+#assignments-2-student-header {
+    background-color: #4d4d4d;
+}
+
+#assignments-2-student-header > span > span.fOyUs_bGBk.dJCgj_bGBk.dJCgj_dfFp > div > span > div > span > button > span {
+    background-color: #4d4d4d;
+    color: #fff;
+}
+
+#assignments-2-student-header > span > span.fOyUs_bGBk.dJCgj_bGBk.dJCgj_zczv > span > span:nth-child(1) > div > span > label > span > span > span.bNerA_bGBk.bNerA_NmrE.bNerA_qfdC.bNerA_bBOa.bNerA_buDT.bNerA_DpxJ.bNerA_eFno > span > span {
+    background-color: #4d4d4d;
+}
+
+#assignments-2-student-header > span > span.fOyUs_bGBk.dJCgj_bGBk.dJCgj_zczv > span > span:nth-child(1) > div > span > label > span > span > span.bNerA_bGBk.bNerA_NmrE.bNerA_qfdC.bNerA_bBOa.bNerA_buDT.bNerA_DpxJ.bNerA_eFno > span > span > span > span > span.fOyUs_bGBk.dJCgj_bGBk.dJCgj_zczv.dJCgj_dfFp > input {
+    color: #ffffff;
+}
+
+
+#assignments-student-footer {
+    background-color: #4d4d4d !important;
+    color: #fff !important;
+}
+
+#content > div > div:nth-child(2) > div:nth-child(4) > span > div:nth-child(2) > div {
+    background-color: #4d4d4d !important;
+    color: #fff !important;
+}
+
+#content > div > div:nth-child(2) > div:nth-child(4) > span > div.fOyUs_bGBk > div > div:nth-child(2) > div > span > span > div > span > span.fOyUs_bGBk.fOyUs_ImeN.fOyUs_fKlg.dJCgj_bGBk > div > span > span > div > button {
+    background-color: #4d4d4d !important;
+    color: #fff !important;
+}
+
+span[class^='fOyUs_bGBk'] {
+    background-color: #4d4d4d !important;
+}
